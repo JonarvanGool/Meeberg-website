@@ -1,0 +1,34 @@
+.NavbarContact {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 80%;
+    text-align: center;
+}
+
+.language-container {
+    padding: 10px;
+}
+
+.phone {
+    width: 35%;
+    margin-top: -3px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    background-color: #85c226;
+    border: 1px solid black;
+    border-top-color: white;
+}
+
+.phone a {
+    color: white;
+    text-decoration: none;
+}
+
+.dropdown-bar-nav {
+    margin-top: 50px;
+    background: white;
+}
+
+.dropdown-bar-nav a {
+    margin: 0 auto;
+}
